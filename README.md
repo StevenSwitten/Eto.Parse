@@ -1,5 +1,7 @@
 Eto.Parse
 =========
+### This is a .NET Core 2.0 upgrade of the original project at https://github.com/picoe/Eto.Parse
+
 ### A recursive descent LL(k) parser framework for .NET
 
 Links
