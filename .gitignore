@@ -5,3 +5,4 @@ obj/
 test-results
 packages/
 *.user
+/.vs/Eto.Parse/v15/Server/sqlite3
